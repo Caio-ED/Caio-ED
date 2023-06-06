@@ -1,6 +1,3 @@
-### 👋 Olá, bem vindo ao meu perfil !
-
-- 😄 Ele/dele
 
 <div align="center">
   <a href="https://github.com/Caio-ED">
