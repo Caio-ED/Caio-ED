@@ -14,5 +14,12 @@ Sou um desenvolvedor back-end com foco em Node.js, apaixonado por criar soluçõ
 
 ## Contato
 
-- <a href="https://www.linkedin.com/in/caioemidiodaniel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> https://www.linkedin.com/in/caioemidiodaniel </a>
-- <a href = "mailto:caioemidiodaniel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> caioemidiodaniel@gmail.com</a>
+- <a href="https://www.linkedin.com/in/caioemidiodaniel" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    https://www.linkedin.com/in/caioemidiodaniel
+  </a>
+  
+- <a href="mailto:caioemidiodaniel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    caioemidiodaniel@gmail.com
+  </a>
