@@ -16,5 +16,3 @@ Sou um desenvolvedor back-end com foco em Node.js, apaixonado por criar soluçõ
 
 - <a href="https://www.linkedin.com/in/caioemidiodaniel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> LinkedIn: https://www.linkedin.com/in/caioemidiodaniel </a>
 - <a href = "mailto:caioemidiodaniel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> Email: caioemidiodaniel@gmail.com</a>
-
-## Estou sempre aberto a novas oportunidades e colaborações. Fique à vontade para entrar em contato e vamos conversar sobre como posso contribuir para o seu projeto ou empresa.
